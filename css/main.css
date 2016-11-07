@@ -1,0 +1,23 @@
+#pink{
+	width: 200px;
+	height: 200px;
+	background-color:#ee3e64;
+	position: static;
+}
+#blue{
+	width: 200px;
+	height: 200px;
+	background-color: #44accf;
+	position: static;
+}
+
+#green{
+	width: 200px;
+	height: 200px;
+	background-color: #b7d84b;
+	position: static;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}

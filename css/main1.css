@@ -1,0 +1,32 @@
+/* Pon tu código css aqui */
+#pink{
+	width: 200px;
+	height: 200px;
+	background-color:#ee3e64;
+	position: relative;
+	right: -500px;
+	top:100px;
+}
+#blue{
+	width: 200px;
+	height: 200px;
+	background-color: #44accf;
+	position: relative;
+	right: -400px;
+	top: 300px;
+
+}
+
+#green{
+	width: 200px;
+	height: 200px;
+	background-color: #b7d84b;
+	position: relative;
+	right:-300px;
+	bottom: 100px;
+
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
